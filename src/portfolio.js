@@ -131,8 +131,9 @@ const techStack = {
 
 const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
-  experience: [
+  experience: [{
 
+  }
   ]
 };
 
