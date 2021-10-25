@@ -88,7 +88,7 @@ const educationInfo = {
       schoolName: "Henry",
       logo: require("./assets/images/SoyHenry.jpg"),
       subHeader: "Full Stack Web Developer",
-      duration: "August 2020 - octubre 2020",
+      duration: "agosto 2020 - octubre 2020",
       descBullets: [
         `HTML5 | CSS3 | JavaScript | Git | Basic Testing`,
         `Data Structures, algorithms, Big O, Functional VS OOP.`,
