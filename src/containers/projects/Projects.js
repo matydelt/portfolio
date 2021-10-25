@@ -17,7 +17,7 @@ export default function Projects() {
   const { isDark } = useContext(StyleConsumer);
   useEffect(() => {
     getRepoData();
-  }, []);
+  });
 
   function getRepoData() {
     const client = new ApolloClient({
@@ -27,7 +27,7 @@ export default function Projects() {
           headers: {
             authorization: `Bearer ${openSource.githubConvertedToken}`,
           },
-        }); 
+        });
       },
     });
 
