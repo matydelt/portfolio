@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Matias Taboda",
   title: "hola!, mi nombre es Matias Taborda",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries."),
+  subTitle: emoji("Un FullStack Dev apasionado por nodeJS , me encuento en la busqueda de una primera experiencia profecional en el mundo it."),
   resumeLink: "https://drive.google.com/file/d/10EzTqYPxn2pjYIcbS_67KKyaiALWUUAI/view?usp=sharing"
 };
 
@@ -26,7 +26,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "My Skills",
   subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     // emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
